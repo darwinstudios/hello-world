@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+What is up world?  This is my first test hello world project
